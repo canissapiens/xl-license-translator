@@ -1,0 +1,331 @@
+{
+  "name": "CSI S.A.",
+  "divisions": [
+    {
+      "name": "IPC",
+      "limit": 6,
+      "employees": [
+        {
+          "acronym": "KS",
+          "firstName": "",
+          "lastName": ""
+        },
+        {
+          "acronym": "LO",
+          "firstName": "",
+          "lastName": ""
+        },
+        {
+          "acronym": "KOL",
+          "firstName": "",
+          "lastName": ""
+        },
+        {
+          "acronym": "KCH",
+          "firstName": "",
+          "lastName": ""
+        },
+        {
+          "acronym": "LUZ",
+          "firstName": "",
+          "lastName": ""
+        },
+        {
+          "acronym": "JU",
+          "firstName": "",
+          "lastName": ""
+        },
+        {
+          "acronym": "PZ",
+          "firstName": "",
+          "lastName": ""
+        },
+        {
+          "acronym": "AJ",
+          "firstName": "",
+          "lastName": ""
+        },
+        {
+          "acronym": "GK",
+          "firstName": "",
+          "lastName": ""
+        },
+        {
+          "acronym": "MW",
+          "firstName": "",
+          "lastName": ""
+        },
+        {
+          "acronym": "KM",
+          "firstName": "",
+          "lastName": ""
+        },
+        {
+          "acronym": "MO",
+          "firstName": "",
+          "lastName": ""
+        },
+        {
+          "acronym": "WIP",
+          "firstName": "",
+          "lastName": ""
+        }
+      ]
+    },
+    {
+      "name": "FOTO",
+      "limit": 7,
+      "employees": [
+        {
+          "acronym": "AN",
+          "firstName": "",
+          "lastName": ""
+        },
+        {
+          "acronym": "MR",
+          "firstName": "",
+          "lastName": ""
+        },
+        {
+          "acronym": "MG",
+          "firstName": "",
+          "lastName": ""
+        },
+        {
+          "acronym": "EK",
+          "firstName": "",
+          "lastName": ""
+        },
+        {
+          "acronym": "PS",
+          "firstName": "",
+          "lastName": ""
+        },
+        {
+          "acronym": "EJ",
+          "firstName": "",
+          "lastName": ""
+        },
+        {
+          "acronym": "AK",
+          "firstName": "",
+          "lastName": ""
+        },
+        {
+          "acronym": "PK",
+          "firstName": "",
+          "lastName": ""
+        },
+        {
+          "acronym": "LW",
+          "firstName": "",
+          "lastName": ""
+        },
+        {
+          "acronym": "WD",
+          "firstName": "",
+          "lastName": ""
+        },
+        {
+          "acronym": "IO",
+          "firstName": "",
+          "lastName": ""
+        },
+        {
+          "acronym": "ST",
+          "firstName": "",
+          "lastName": ""
+        }
+      ]
+    },
+    {
+      "name": "LOG",
+      "limit": 2,
+      "employees": [
+        {
+          "acronym": "BK",
+          "firstName": "",
+          "lastName": ""
+        },
+        {
+          "acronym": "KP",
+          "firstName": "",
+          "lastName": ""
+        },
+        {
+          "acronym": "AP",
+          "firstName": "",
+          "lastName": ""
+        },
+        {
+          "acronym": "JJ",
+          "firstName": "",
+          "lastName": ""
+        }
+      ]
+    },
+    {
+      "name": "DIMIL",
+      "limit": 1,
+      "employees": [
+        {
+          "acronym": "KG",
+          "firstName": "",
+          "lastName": ""
+        },
+        {
+          "acronym": "MH",
+          "firstName": "",
+          "lastName": ""
+        }
+      ]
+    },
+    {
+      "name": "ADMINISTRATOR",
+      "limit": 3,
+      "employees": [
+        {
+          "acronym": "Administrator",
+          "firstName": "",
+          "lastName": ""
+        }
+      ]
+    },
+    {
+      "name": "MIL",
+      "limit": 1,
+      "employees": [
+        {
+          "acronym": "AZ",
+          "firstName": "",
+          "lastName": ""
+        }
+      ]
+    },
+    {
+      "name": "MAR",
+      "limit": 0,
+      "employees": [
+        {
+          "acronym": "AKK",
+          "firstName": "",
+          "lastName": ""
+        },
+        {
+          "acronym": "MOC",
+          "firstName": "",
+          "lastName": ""
+        },
+        {
+          "acronym": "IC",
+          "firstName": "",
+          "lastName": ""
+        }
+      ]
+    },
+    {
+      "name": "SHROFF",
+      "limit": 4,
+      "employees": [
+        {
+          "acronym": "DG",
+          "firstName": "",
+          "lastName": ""
+        },
+        {
+          "acronym": "JD",
+          "firstName": "",
+          "lastName": ""
+        },
+        {
+          "acronym": "TW",
+          "firstName": "",
+          "lastName": ""
+        },
+        {
+          "acronym": "WK",
+          "firstName": "",
+          "lastName": ""
+        },
+        {
+          "acronym": "PIS",
+          "firstName": "",
+          "lastName": ""
+        }
+      ]
+    },
+    {
+      "name": "KSG",
+      "limit": 5,
+      "employees": [
+        {
+          "acronym": "AG",
+          "firstName": "",
+          "lastName": ""
+        },
+        {
+          "acronym": "PB",
+          "firstName": "",
+          "lastName": ""
+        },
+        {
+          "acronym": "MOW",
+          "firstName": "",
+          "lastName": ""
+        },
+        {
+          "acronym": "PJ",
+          "firstName": "",
+          "lastName": ""
+        },
+        {
+          "acronym": "JOS",
+          "firstName": "",
+          "lastName": ""
+        },
+        {
+          "acronym": "MD",
+          "firstName": "",
+          "lastName": ""
+        }
+      ]
+    },
+    {
+      "name": "FLASH",
+      "limit": 1,
+      "employees": [
+        {
+          "acronym": "LZ",
+          "firstName": "",
+          "lastName": ""
+        },
+        {
+          "acronym": "DK",
+          "firstName": "",
+          "lastName": ""
+        },
+        {
+          "acronym": "KC",
+          "firstName": "",
+          "lastName": ""
+        }
+      ]
+    },
+    {
+      "name": "KADRY",
+      "limit": 1,
+      "employees": [
+        {
+          "acronym": "MC",
+          "firstName": "",
+          "lastName": ""
+        },
+        {
+          "acronym": "JZ",
+          "firstName": "",
+          "lastName": ""
+        }
+      ]
+    }
+  ]
+}
